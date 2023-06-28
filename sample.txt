@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains some lines of text.
+We will use the grep command to search for specific patterns in this file.
+Let's test it out!

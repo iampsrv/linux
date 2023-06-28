@@ -1,0 +1,21 @@
+Student Name,Term 1,Term 2
+John Doe,85,92
+Jane Smith,78,88
+Michael Johnson,92,90
+Emily Davis,80,85
+David Wilson,88,94
+Sarah Thompson,82,78
+Daniel Anderson,90,91
+Olivia Brown,85,89
+William Martinez,91,87
+Sophia Lee,79,84
+Matthew Taylor,86,92
+Ava Thomas,88,90
+James Clark,82,79
+Emma Garcia,94,92
+Benjamin Rodriguez,87,85
+Mia Hernandez,83,88
+Alexander Moore,90,91
+Ella Lewis,89,82
+Joseph Wright,91,90
+Victoria King,84,87
